@@ -1,0 +1,13 @@
+{
+  "name": "com.redshoregames.manager",
+  "displayName": "Red Shore Games Manager Package",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "author": "Red Shore Games",
+  "description": "This is an Manager Package for Singleton and Persistent Manager",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Red-Shore-Games/com.redshoregames.manager.git"
+  }
+}
